@@ -13,3 +13,5 @@ The assignment named [anscombes-quartet-dataset.ipynb](https://github.com/nprada
 3. Calculate the descriptive statistics of the variables in the dataset.
 
 4. Explain why the dataset is interesting, referring to the plots and statistics above.
+
+For info about the assignment instruction: [assignment_instructions.pdf](https://github.com/npradaschnor/Fundamentals-of-Data-Analytics/blob/master/assignment_instructions.pdf)
