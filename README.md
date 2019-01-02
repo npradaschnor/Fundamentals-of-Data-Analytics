@@ -14,4 +14,4 @@ The assignment named [anscombes-quartet-dataset.ipynb](https://github.com/nprada
 
 4. Explain why the dataset is interesting, referring to the plots and statistics above.
 
-For info about the assignment instruction: [assignment_instructions.pdf](https://github.com/npradaschnor/Fundamentals-of-Data-Analytics/blob/master/assignment_instructions.pdf)
+For info about the assignment instructions: [assignment_instructions.pdf](https://github.com/npradaschnor/Fundamentals-of-Data-Analytics/blob/master/assignment_instructions.pdf)
